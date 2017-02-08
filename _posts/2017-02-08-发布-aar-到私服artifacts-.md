@@ -54,6 +54,8 @@ gradle assembleRelease artifactoryPublish
 ```
 在app 的 build.gradle 中添加compile
 ```java
-compile(group: 'com.ch999', name: 'BaseLib', version: '1.0.6', ext: 'aar')
+compile(group: 'com.xxx', name: 'BaseLib', version: '1.0.6', ext: 'aar')
 ```
 然后就可以正常使用；
+
+到站了 到站了
